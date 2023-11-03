@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e7a5929.css",
-    "main.js": "/static/js/main.57aaff92.js",
-    "static/media/5y tech.PNG": "/static/media/5y tech.ef13f85b4b3562268cab.PNG",
+    "main.css": "/static/css/main.771780c8.css",
+    "main.js": "/static/js/main.88a52985.js",
+    "static/media/5y_Logo.jpeg": "/static/media/5y_Logo.c1a01a933d5650a1e4ff.jpeg",
     "index.html": "/index.html",
-    "main.2e7a5929.css.map": "/static/css/main.2e7a5929.css.map",
-    "main.57aaff92.js.map": "/static/js/main.57aaff92.js.map"
+    "main.771780c8.css.map": "/static/css/main.771780c8.css.map",
+    "main.88a52985.js.map": "/static/js/main.88a52985.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e7a5929.css",
-    "static/js/main.57aaff92.js"
+    "static/css/main.771780c8.css",
+    "static/js/main.88a52985.js"
   ]
 }
